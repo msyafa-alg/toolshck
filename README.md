@@ -66,11 +66,11 @@
 ### Quick Install
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/syafahosting-ultimate-toolkit.git
-cd syafahosting-ultimate-toolkit
+git clone https://github.com/msyafa-alg/toolshck.git
+cd toolshck
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Make script executable (Linux/macOS)
-chmod +x syafahosting_ultimate.py
+chmod +x cf_bypass.py
